@@ -21,7 +21,7 @@ Highlighting possible sources of bias that results in bad quality decisions by t
         │        └── correlation_misclassified.jpeg
         │        └── confusion_matrix.jpeg
         │           
-        └── Key Findings.pdf
+        └── key_findings.pdf
         └── README.md
 
 **datasets**
@@ -38,4 +38,4 @@ Highlighting possible sources of bias that results in bad quality decisions by t
 `correlation_classified.jpeg` -> Correlation matrix between all continuous variables in case of correctly classifed individuals <br />
 `correlation_misclassified.jpeg` -> Correlation matrix between all continuous variables in case of incorrectly classifed individuals <br />
 `confusion_matrix.jpeg` -> Confusion matrix for True vs Predicted, Above and Below threshold <br />
-`Key Findings.pdf` -> Executive summary illustrating the key insights emerging from the dashboard <br />
+`key_findings.pdf` -> Executive summary illustrating the key insights emerging from the dashboard <br />
