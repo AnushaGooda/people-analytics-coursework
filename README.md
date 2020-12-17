@@ -1,4 +1,4 @@
-# people-analytics-coursework
+## people-analytics-coursework
 People Analytics
 Task:
 
