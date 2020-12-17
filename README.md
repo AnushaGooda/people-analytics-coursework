@@ -20,3 +20,14 @@ Directory Structure
         │           
         └── README.md
 
+datasets
+
+cSVM.json -> Dataset as provided
+
+scripts
+
+01_visualization.ipynb -> Python code for creating the dashboard
+
+output
+
+dashboard_tabs.html -> Final dashboard with two tabs (Continuous and Categorical)
