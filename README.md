@@ -9,13 +9,14 @@ Highlighting possible sources of bias that results in bad quality decisions by t
 Directory Structure
 
        people-analytics-coursework
-        ├── README.md
-        ├── .gitignore
         ├── requirements.txt
         ├── Group7SMM635.pdf
         ├── datasets
         │   ├── cSVM.json
         └── script
-            ├── 01_visualization.ipynb
-            └── output
-                └── dashboard_tabs.html
+        │    ├── 01_visualization.ipynb
+        │    └── output
+        │        └── dashboard_tabs.html
+        │           
+        └── README.md
+
