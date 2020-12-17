@@ -1,5 +1,5 @@
 # people-analytics-coursework
-Coursework People Analytics
+People Analytics Coursework
 Task:
 
 Creating a dashboard to help an analyst to discover which features are reasons for misclassification.
