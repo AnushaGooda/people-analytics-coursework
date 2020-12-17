@@ -6,7 +6,7 @@ Creating a dashboard to help an analyst to discover which features are reasons f
 Highlighting possible sources of bias that results in bad quality decisions by the Machine Learning model.
 
 
-Directory Structure
+**Directory Structure**
 
        people-analytics-coursework
         ├── requirements.txt
@@ -20,14 +20,14 @@ Directory Structure
         │           
         └── README.md
 
-datasets
+**datasets**
 
 cSVM.json -> Dataset as provided
 
-scripts
+**scripts**
 
 01_visualization.ipynb -> Python code for creating the dashboard
 
-output
+**output**
 
 dashboard_tabs.html -> Final dashboard with two tabs (Continuous and Categorical)
