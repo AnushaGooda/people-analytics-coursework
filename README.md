@@ -24,7 +24,7 @@ Highlighting possible sources of bias that results in bad quality decisions by t
 
 cSVM.json -> Dataset as provided
 
-**scripts**
+**script**
 
 01_visualization.ipynb -> Python code for creating the dashboard
 
