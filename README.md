@@ -17,6 +17,9 @@ Highlighting possible sources of bias that results in bad quality decisions by t
         │    ├── 01_visualization.ipynb
         │    └── output
         │        └── dashboard_tabs.html
+        │        └── correlation_classified.jpeg
+        │        └── correlation_misclassified.jpeg
+        │        └── confusion_matrix.jpeg
         │           
         └── README.md
 
@@ -31,3 +34,6 @@ cSVM.json -> Dataset as provided
 **output**
 
 dashboard_tabs.html -> Final dashboard with two tabs (Continuous and Categorical)
+correlation_classified.jpeg -> Correlation matrix between all continuous variables in case of correctly classifed individuals
+correlation_misclassified.jpeg -> Correlation matrix between all continuous variables in case of incorrectly classifed individuals
+confusion_matrix.jpeg -> Confusion matrix for True vs Predicted, Above and Below threshold
