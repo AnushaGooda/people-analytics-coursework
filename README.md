@@ -33,7 +33,7 @@ cSVM.json -> Dataset as provided
 
 **output**
 
-dashboard_tabs.html -> Final dashboard with two tabs (Continuous and Categorical)
-correlation_classified.jpeg -> Correlation matrix between all continuous variables in case of correctly classifed individuals
-correlation_misclassified.jpeg -> Correlation matrix between all continuous variables in case of incorrectly classifed individuals
-confusion_matrix.jpeg -> Confusion matrix for True vs Predicted, Above and Below threshold
+dashboard_tabs.html -> Final dashboard with two tabs (Continuous and Categorical) <br />
+correlation_classified.jpeg -> Correlation matrix between all continuous variables in case of correctly classifed individuals <br />
+correlation_misclassified.jpeg -> Correlation matrix between all continuous variables in case of incorrectly classifed individuals <br />
+confusion_matrix.jpeg -> Confusion matrix for True vs Predicted, Above and Below threshold <br />
